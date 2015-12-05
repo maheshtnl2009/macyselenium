@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<country>
+<countryname id="USA">
+<url>http://www.macys.com/</url>
+<searchitem>Scalloped socks</searchitem>
+<searchname>Trimfit Girls' or Little Girls' 3-Pack Scalloped Socks</searchname>
+<size>M</size>
+<menu>HOME</menu>
+<colour>White</colour>
+<fn>firstname</fn>
+<ln>lastname</ln>
+<add>922 Deacon Cir</add>
+<city>Berlin</city>
+<state>OH</state>
+<postalcode>43214</postalcode>
+<phone>(123)456-7890</phone>
+
+
+<gm1>this is mahesh</gm1>
+<gm2>from mahesh</gm2>
+<gm3>life time</gm3>
+<gm4>Hide prices</gm4>
+
+<ufn>first</ufn>
+<uln>last</uln>
+<uadd>425 metro place north</uadd>
+<ucity>dublin</ucity>
+<ustate>OH</ustate>
+<upostalcode>43017</upostalcode>
+<uphone>(012)345-6789</uphone>
+
+<ugm1>this is my gift</ugm1>
+<ugm2>my gift is gift</ugm2>
+<ugm3>ignore previous msg</ugm3>
+
+
+<ctype>Visa</ctype>
+<cnum>4111111111111111</cnum>
+<cmonth>5</cmonth>
+<cyear>2018</cyear>
+<c3>111</c3>
+
+<uctype>Visa</uctype>
+<ucnum>4111111111111111</ucnum>
+<ucmonth>8</ucmonth>
+<ucyear>2017</ucyear>
+<uc3>258</uc3>
+
+<ubilfn>mahesh</ubilfn>
+<ubilln>velu</ubilln>
+<ubilladd>1000 Lake Carolyn</ubilladd>
+<ubillcity>Irving</ubillcity>
+<ubillstate>TX</ubillstate>
+<ubillzip>75038</ubillzip>
+<ubillphone>(102) 345-6789</ubillphone>
+<umail>mv@ght.org</umail>
+
+<bilfn>mahesh</bilfn>
+<billn>velu</billn>
+<billadd>1001 Lake Carolyn Pkwy</billadd>
+<billcity>Irving</billcity>
+<billstate>TX</billstate>
+<billzip>75039</billzip>
+<billphone>(012) 345-6789</billphone>
+<mail>mv@selenium.org</mail>
+
+
+<webnum>1629900</webnum>
+<itemprice>$6.98</itemprice>
+<shiprice>9.95</shiprice>
+<taxval>$0.42</taxval>
+<totprice>$17.35</totprice>
+
+
+
+
+</countryname>
+</country>

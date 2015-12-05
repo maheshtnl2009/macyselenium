@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Macy Smoke Testing"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="923.791">
+  <properties />
+  
+  
+            <testcase name="test03" time="127.990" classname="com.macy.automationtest.macysmoke" />
+                <testcase name="test04" time="139.366" classname="com.macy.automationtest.macysmoke" />
+                <testcase name="test06" time="175.984" classname="com.macy.automationtest.macysmoke" />
+                <testcase name="test01" time="76.402" classname="com.macy.automationtest.macysmoke" />
+                <testcase name="test05" time="143.920" classname="com.macy.automationtest.macysmoke" />
+                <testcase name="test02" time="94.052" classname="com.macy.automationtest.macysmoke" />
+                <testcase name="test07" time="166.077" classname="com.macy.automationtest.macysmoke" />
+      
+</testsuite>

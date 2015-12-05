@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Smoke For Macy" parallel="methods" thread-count="1" >
+	<test name="Macy Smoke Testing">
+		<classes>
+			<class name="com.macy.automationtest.macysmoke"></class>
+		</classes>
+	</test>
+</suite>
+ 
+  

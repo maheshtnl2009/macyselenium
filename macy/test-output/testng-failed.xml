@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.macy.automationtest.macysmoke">
+        <methods>
+          <include name="originaltest"/>
+          <include name="endtest"/>
+          <include name="samepletest1"/>
+        </methods>
+      </class> <!-- com.macy.automationtest.macysmoke -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
