@@ -18,7 +18,7 @@ public class sehelper {
 		
 		String s=c.getdata("url");
 		System.setProperty("webdriver.chrome.driver",
-				"C:/Users/mahesh/Desktop/erp/selenium/chromedriver.exe");
+				"E:ohio/erp/selenium/chromedriver.exe");
 		driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		report.logstep("Access macy homepage");
